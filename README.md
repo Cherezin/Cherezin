@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hellow ~~world~~ <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">! I'm [Alexandre]([https://www.linkedin.com/in/alexandre-alves-do-nascimento-6a0615269/])!
 
-<!--
-**Cherezin/Cherezin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+import Developer from 'AlexandreAlves';
 
-Here are some ideas to get you started:
+class Bio extends Developer {
+name = 'Alexandre Alves do Nascimento';
+nickname = 'Chere';
+title = 'Web Developer';
+location = 'Vitoria-ES, Brazil';
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends Developer {
+Technologies = ['React', 'TypeScript', 'NodeJS', 'JavaScript', 'HTML', 'CSS' ]
+}
+
+class Contacts extends Developer {
+linkedin = ['www.linkedin.com/in/alexandre-alves-do-nascimento-6a0615269/'];
+email = ['alexandre2405@gmail.com'];
+}
+```
