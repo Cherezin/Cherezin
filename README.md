@@ -32,11 +32,6 @@ email = ['alexandre2405@gmail.com'];
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cherezin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Cherezin&locale=en&mode=daily&theme=buefy&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<div>
-
   <div style="display: inline_block"><br>  
     <h3>Technologies<h3/>
     <img align="center" alt="Chere-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -46,4 +41,3 @@ email = ['alexandre2405@gmail.com'];
     <img align="center" alt="Chere-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Chere-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
-</div>
